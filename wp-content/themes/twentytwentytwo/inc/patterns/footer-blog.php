@@ -46,8 +46,8 @@ return array(
 					<p class="has-text-align-right">' .
 					sprintf(
 						/* Translators: WordPress link. */
-						esc_html__( 'Proudly powered by %s', 'twentytwentytwo' ),
-						'<a href="' . esc_url( __( 'https://wordpress.org', 'twentytwentytwo' ) ) . '" rel="nofollow">WordPress</a>'
+						esc_html__( 'a %s', 'twentytwentytwo' ),
+						'<a href="' . esc_url( __( 'https://wordpress.org', 'twentytwentytwo' ) ) . '" rel="nofollow">b</a>'
 					) . '</p>
 					<!-- /wp:paragraph --></div>
 					<!-- /wp:group --></div>
